@@ -1,2 +1,2 @@
 # DevOps-Cloud-Studies
-Tracking my DevOps and Cloud learning progress
+Tracking my Cloud learning progress
